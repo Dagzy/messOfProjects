@@ -1,0 +1,15 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "learning node!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quincy Williams",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "underscore": "^1.8.3"
+  }
+}
